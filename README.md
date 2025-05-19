@@ -64,7 +64,7 @@ A hybrid model combining CNN and Transformer-based mechanisms:
 
 ---
 
-## 🔥 Loss Function: Hardness Adaptive Margin (HAM) Loss
+##  Loss Function: Hardness Adaptive Margin (HAM) Loss
 
 Improves learning from difficult (hard) samples:
 - Dynamically adjusts margin based on the angle and hardness of a sample.
@@ -88,14 +88,4 @@ Improves learning from difficult (hard) samples:
 - [Face Data Augmentation Techniques](https://hackernoon.com/face-data-augmentation-part-2-image-synthesis)  
 - [Dual-Branch Transformer for Hyperspectral Classification](https://www.researchgate.net/publication/380339581)  
 
----
-
-## 🏁 Conclusion
-
-This face recognition system showcases a powerful combination of:
-- **Transformer-based global reasoning**
-- **CNN-based local feature extraction**
-- **Adaptive loss functions**
-
-...all tuned for real-world performance. Ideal for applications requiring **high reliability**, **robustness to occlusion**, and **identity consistency**.
 
