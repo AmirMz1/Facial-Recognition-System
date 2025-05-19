@@ -2,6 +2,8 @@
 
 This project implements a **robust face recognition system** using a novel architecture called **DB-ACVT (Dual-Branch Attention Convolution Vision Transformer)** and a custom loss function known as **Hardness Adaptive Margin (HAM) Loss**. It focuses on achieving high accuracy even under challenging real-world conditions such as occlusion, pose variation, and lighting inconsistency.
 
+Google Dirve: https://drive.google.com/drive/folders/1nEMgCuEaB9Z2mY0pJaTYzIr0iH9jG6rm?usp=sharing
+
 ## 🚀 Overview
 
 This system is designed to:
