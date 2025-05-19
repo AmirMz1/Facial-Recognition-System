@@ -40,9 +40,9 @@ To simulate real-world scenarios:
 
 ![System Architecture](docs/preprocessed.png)
 
-> Applying occlusion 
+> occlusions applied to the dataset
+
 ![System Architecture](docs/aligned_samples.png)
-> 
 ![System Architecture](docs/aligned_samples2.png)
 ---
 
