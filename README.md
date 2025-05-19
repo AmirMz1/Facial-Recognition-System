@@ -39,6 +39,11 @@ To simulate real-world scenarios:
 > Aggressive or identity-destroying augmentations are avoided to preserve recognition integrity.
 
 ![System Architecture](docs/preprocessed.png)
+
+> Applying occlusion 
+![System Architecture](docs/aligned_samples.png)
+> 
+![System Architecture](docs/aligned_samples2.png)
 ---
 
 ## 🧠 Model Architecture: DB-ACVT
