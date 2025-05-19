@@ -23,6 +23,8 @@ This system is designed to:
 
 1. **Face Detection**: Using MediaPipe for landmark localization.
 2. **Face Alignment**: Affine transformation aligns facial landmarks (e.g., eyes, nose, mouth) to a frontal template.
+
+   
 ![System Architecture](docs/sample_image.png)
 
 ---
@@ -35,7 +37,8 @@ To simulate real-world scenarios:
 - **Standard Techniques**: Horizontal flipping, Gaussian blur/noise, brightness/contrast changes.
 
 > Aggressive or identity-destroying augmentations are avoided to preserve recognition integrity.
-![System Architercture]('docs/preprocessed.png')
+
+![System Architecture](docs/preprocessed.png)
 ---
 
 ## 🧠 Model Architecture: DB-ACVT
